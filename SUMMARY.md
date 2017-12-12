@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [序] PREFACE.md
+* [序](PREFACE.md)
 * [第1章 构建简单的AngularJS应用](./Ch01/01.md)
     * [1.1 构建目标](./Ch01/1.1.md)
     * [1.2 学习内容](./Ch01/1.2.md)
