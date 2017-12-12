@@ -1,1 +1,1 @@
-# rhce
+# RHCSA/RHCE 红帽Linux认证学习指南
