@@ -5,3 +5,9 @@ Linux 是一个<red>多用户</red>、<red>多任务</red>的开源操作系统�
 RHCSA 和 RHCE 是两个不同的考试，有各自的侧重点，然而二者之间也有重叠之处。Red Hat 提供了多种认证，而 RHCSA 和 RHCE 是这些
 认证的<red>基础</red>，也就是说，必须先通过 RHCSA 和 RHCE ，Red Hat 才允许参加其他认证考试。
 
+Red Hat 认证系统管理员考试 (Red Hat Certified System Administrators, RHCSA)
+
+Red Hat 认证工程师考试 (Red Hat Certified Engineers, RHCE)
+
+
+
