@@ -49,7 +49,15 @@ Red Hat 只支持64位CPU物理计算机上的 KVM 虚拟主机。
 几乎所有 RHEL RPM 程序包的源代码都是基于 <red>Linux 通用公共许可证 (Linux General Public License, GPL)</red> 或其他
 相关开源许可证发布的。这给任何用户提供了从 Red Hat 发布的源代码重构 Red Hat 企业版 Linux 的权利。
 
+Linux 的源代码是以 Source RPM 程序包格式发布的。这意味着，RPM 程序包可以用 rpmbuild 命令生成。重构版本的所有开发人员都会修改
+源代码，删除其中的 Red Hat 商标。有些发行版本，如 CentOS 7 和 Scientific Linux 7 ，免费供大众使用。另一些发型版本，
+如 Oracle Linux ，需要先注册，并且必须遵循从美国出口控制法律等规定。
 
+<red>社区企业操作系统 (Community Enterprise Operating System, CentOS)</red>。
 
+RHEL 的重构版本可以免费使用。
 
+CentOS 项目在 2014 年加入了 Red Hat 社区，目前由 Red Hat 维护。
 
+对于以 Red Hat 企业版 Linux 7 为基础的 Red Hat 认证考试，建议不要使用 Fedora Linux 。尽管 RHEL 7 基本是建立在 Fedora 19 和
+Fedora 20 之上的，但是这些发型版本有不少差别，可能引起混乱。
